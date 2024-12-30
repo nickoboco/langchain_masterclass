@@ -32,7 +32,7 @@ while True:
     # Invoca o modelo de chat
     result = model.invoke(chat_history)
 
-    # Adiciona a mensagem da IA ao histórico
+    # Obtém a resposta da IA
     response = result.content
 
     # Adiciona a mensagem da IA ao histórico
