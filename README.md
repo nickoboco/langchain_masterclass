@@ -1,4 +1,4 @@
-# MASTERCLASS - LANCHAIN
+# MASTERCLASS - LangChain
 
 Nesse repositório estou praticando o uso de LangChain. Até o momento já desenvolvi:
 
